@@ -1,0 +1,1 @@
+This is my first git remote file inside the remote directory
